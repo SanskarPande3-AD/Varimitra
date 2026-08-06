@@ -31,3 +31,4 @@ Open `http://localhost:5173`. The Vite proxy forwards every `/backend/*` request
 
 Before starting Spring Boot, ensure PostgreSQL is running and that the database configuration in `backend/src/main/resources/application.yaml` is valid for your machine.
 # Varimitra
+# safevari
